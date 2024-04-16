@@ -5,7 +5,7 @@ I am a junior developper currently learning at BeCode and looking for an interns
 You can contact me using the following medias
 <p align="left">
  <a href="https://linkedin.com/in/denis-mathieu-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis mathieu" height="30" width="40" /></a>
- <a href="denismathieu1203@gmail.com" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20190617/original/pngtree-email-vector-icon-png-image_3876278.jpg" alt="denis mathieu" width="40" /></a>
+<img align="center" src="https://png.pngtree.com/png-clipart/20190617/original/pngtree-email-vector-icon-png-image_3876278.jpg" alt="denis mathieu" width="40" /><p>denismathieu1203@gmail.com</p>
 </p>
 
 I am comfortable with those technologies
