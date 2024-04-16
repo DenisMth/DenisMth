@@ -6,7 +6,7 @@ You can contact me using the following medias
 <p align="left">
  <a href="https://linkedin.com/in/denis-mathieu-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis mathieu" height="30" width="40" /></a></p>
  <p>
-<img align="center" src="https://png.pngtree.com/png-clipart/20190617/original/pngtree-email-vector-icon-png-image_3876278.jpg" alt="denis mathieu" width="40" /><p>denismathieu1203@gmail.com</p>
+<img align="center" src="https://png.pngtree.com/png-clipart/20190617/original/pngtree-email-vector-icon-png-image_3876278.jpg" alt="denis mathieu" width="40" />denismathieu1203@gmail.com
 </p>
 
 I am comfortable with those technologies
